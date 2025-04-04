@@ -1,0 +1,62 @@
+table.zoroark{
+    height: 100vh;
+    width: 100%;
+    border: black;
+    background: linear-gradient(0.25turn,#011866, #015391);
+}
+tr.charmander{
+    height: 5%;
+    background: linear-gradient(0.25turn,#015391, #011866);
+}
+td.empoleon{
+    width: 5%;
+    text-align: end;
+}
+img{
+    height: 50%;
+}
+td.um_siri_fazendo_barra{
+    width: 10%;
+  font-size: larger;
+  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+tr.incineroar{
+    height: 10%;
+    background: linear-gradient(0.25turn, #011147, #013b68) ;
+}
+
+td.test{
+    background-color: #015391;
+}
+td.bola_quadrada{
+text-align: center;
+   
+}
+td.Mega_rayquaza_shiny_level_100_com_6_ivs_perfeitos{
+    font-size: smaller;
+    
+}
+
+.gamemode_criativo{
+width: 200px;
+height: 200px;
+text-align: center;
+}
+.gamemode_survival{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    }
+h1{
+    width: 70%;
+    margin: auto;
+}
+.color{
+    color: white;
+    text-align: center;
+}
+
